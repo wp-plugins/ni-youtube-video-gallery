@@ -1,0 +1,57 @@
+/* CSS Document */
+.ni-wrapper{ 
+	/*border:1px solid red;  */
+	width: 80%;
+    margin: 0 auto;
+	overflow:hidden; 
+	margin-top:10px;
+	}
+	
+.ni-box-1 { 
+			/*border:1px solid green; */
+			float:left; 
+			margin-bottom:20px;
+			 position: relative;
+			
+			}
+/*			
+.ni-box-1:hover:before { 
+    content: ""; 
+    position: absolute; 
+    top: 0; 
+    width: 120px; 
+    height: 90px; 
+    z-index: 100; 
+    background: transparent url(../images/play-arrow.png) no-repeat center; 
+    pointer-events: none; 
+	border:1px solid red;
+}			*/
+.ni-box-2 { 
+	/*border:1px solid green;*/
+	 margin-left:140px;	
+	 font-size:14px;
+	}
+
+.ni-wrapper .ni-video-title  { } 	
+.ni-wrapper .ni-video-category  { } 	
+.ni-wrapper .ni-video-author  { } 	
+.ni-wrapper .ni-video-view { } 	
+.page-numbers { padding-right:5px;}
+.ni-single-wrap { 
+	/*border:1px solid black;*/
+	width: 80%;
+	margin: 0 auto;
+	overflow:hidden; 
+	margin-top:10px;
+}
+.ni-single-wrap .single-video {/* border:1px solid green;*/ float:left; margin-right:20px;}
+.ni-single-wrap .single-video-text  {  
+		font-size:14px;
+		/*border:1px solid red;*/
+		}
+
+
+.ni-single-wrap .single-video-text span {  
+	font-weight:bold;
+	padding-left:10px;
+}
