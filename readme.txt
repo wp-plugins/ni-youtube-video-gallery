@@ -1,4 +1,4 @@
-=== N i YouTube ===
+=== Ni YouTube ===
 Contributors: Anzar Ahmed
 Tags: channel, youtube, gallery, plugin,web videos, youtube plugin, embed youtube, video, embed videos, youtube player, simple youtube, youtube embed, wordpress youtube embed, video plugin
 Requires at least: 4.1.1
