@@ -20,7 +20,7 @@ Some Features .
 * Video And Images From Youtube
 * Add, Delete, Update Video
 * Add, Delete, Update Category 
-* Template Customization 
+* Template Customization.
 
 
 == Installation ==
