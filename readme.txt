@@ -1,4 +1,4 @@
-=== WordPress YouTube ===
+=== Ni YouTube ===
 Contributors: Anzar Ahmed
 Tags: channel, youtube, gallery, plugin,web videos, youtube plugin, embed youtube, video, embed videos, youtube player, simple youtube, youtube embed, wordpress youtube embed, video plugin
 Requires at least: 4.1.1
@@ -13,7 +13,7 @@ Ni Youtube video gallery is a plugin for wordpress that allows you to embed yout
 
 Ni Youtube video gallery is a plugin for wordpress that allows you to embed youtube video gallery into your website or blog. This is simple plugin for website or blog that use youtube video.
 
-Some Features.
+Some Features . 
 
 * Fast And Easy Install
 * Automatically Get Youtube ID
